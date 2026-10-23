@@ -20,6 +20,17 @@ source; `bin/build-zip.sh` stages it under the distribution slug `open-zad`.
 > automated scan — under manual review
 > ([ticket #282821](https://themes.trac.wordpress.org/ticket/282821)).
 
+
+## Application preview
+
+![Actual application interface](docs/media/readme-preview.png)
+
+![Tour of actual application screens](docs/media/readme-tour.gif)
+
+Gallery of the shipped WordPress pattern screenshots. The GIF alternates actual rendered patterns; it does not simulate editing or publishing.
+
+[Media provenance](docs/media/README.md)
+
 ## Features
 
 - **RTL-first** — logical CSS properties throughout, so right-to-left
